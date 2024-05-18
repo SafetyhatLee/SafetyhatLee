@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=🚅%20SafeCap's%20Git%20Laboratory%20🚀&desc=Welcome%20to%20the%20World%20of%20Safetyhat%20Lee&fontSize=40&animation=twinkling&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=🚅%20SafeCap's%20Git%20Laboratory%20🚀&fontSize=40&animation=twinkling&fontAlignY=50&fontAlign=30&desc=Welcome%20to%20the%20World%20of%20Safetyhat%20Lee&fontAlign=60&height=180)
 <!-- 
 **SafetyhatLee/SafetyhatLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:--!>
 
