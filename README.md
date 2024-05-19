@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=🚅%20SafeCap's%20Git%20Laboratory%20🚀&fontSize=40&animation=twinkling&fontAlignY=10&fontAlign=50&height=180&desc=Welcome%20to%20the%20World%20of%20Safetyhat%20Lee&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=🚅%20SafeCap's%20Git%20Laboratory%20🚀&fontSize=40&animation=twinkling&fontAlignY=35&fontAlign=50&height=180&desc=Welcome%20to%20the%20World%20of%20Safetyhat%20Lee&descAlignY=60)
 
 <h2>Safetyhat Lee</h2>
 <h4> - 🔭 Current State: Undergraduate Student (2021.3~2028.2, Seoul National University) </h4>
