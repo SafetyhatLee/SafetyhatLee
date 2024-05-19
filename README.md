@@ -13,8 +13,9 @@
   <img src="https://img.shields.io/badge/kotlin-F9EAFF.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />&nbsp
   <img src="https://img.shields.io/badge/matlab-11557c.svg?style=for-the-badge&logo=matlab&logoColor=white" />&nbsp
 </div>
-
-![main](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![main](https://github-readme-stats.vercel.app/api?username=safetyhatlee)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee)
+(https://github.com/anuraghazra/github-readme-stats)
 
 <h3, h5 align="center">
 <h3>📢 Other Information..! 📢</h3>
