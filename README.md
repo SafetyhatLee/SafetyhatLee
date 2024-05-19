@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/R-B0A9A5.svg?style=for-the-badge&logo=R&logoColor=276DC3" />&nbsp
   <br>
   <img src="https://img.shields.io/badge/html5-2F4858.svg?style=for-the-badge&logo=python&logoColor=E34F26" />&nbsp
-  <img src="https://img.shields.io/badge/css3-DBF2FF.svg?style=for-the-badge&logo=pandas&logoColor=1572B6" />&nbsp
+  <img src="http://www.w3.org/2000/svg?style=for-the-badge&logo=pandas&logoColor=1572B6" />&nbsp http://www.w3.org/2000/svg
   <img src="https://img.shields.io/badge/kotlin-F9EAFF.svg?style=for-the-badge&logo=numpy&logoColor=7F52FF" />&nbsp
   <img src="https://img.shields.io/badge/matlab-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
