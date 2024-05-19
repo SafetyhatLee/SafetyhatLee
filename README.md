@@ -4,18 +4,18 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/python-EBF0F3.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-D6905A.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/java-D6905A.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/R-B0A9A5.svg?style=for-the-badge&logo=R&logoColor=276DC3" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/html-2F4858.svg?style=for-the-badge&logo=python&logoColor=E34F26" />&nbsp
+  <img src="https://img.shields.io/badge/css-DBF2FF.svg?style=for-the-badge&logo=pandas&logoColor=1572B6" />&nbsp
+  <img src="https://img.shields.io/badge/kotlin-F9EAFF.svg?style=for-the-badge&logo=numpy&logoColor=7F52FF" />&nbsp
+  <img src="https://img.shields.io/badge/matlab-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
  
 <h3>📢 Other Information..!</h3>
