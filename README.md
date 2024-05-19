@@ -15,11 +15,11 @@
 </div>
 
 <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee" />
+  <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee&show_icons=true&theme=react" />&nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee&layout=compact" />
 (https://github.com/anuraghazra/github-readme-stats)
 
 <h3, h5 align="center">
-<h3>📢 Other Information..! 📢</h3>
-<h5>👯 Wanna Collaborate in: Transportation(especially micromobility and urban railway) / SNS System planning / Urban System and its User Experience 👯</h5>
-<h5>🤔 Looking for help with: Cloud management / Blockchain system construction / Website design 🤔</h5>
-<h5>😄 My interests: #Love_pizza_and_pasta #He/his #Like_football_n_lol #Usually_wears_jean 😄</h5>
+  <h3>📢 Other Information..! 📢</h3>
+  <h5>👯 Wanna Collaborate in: Transportation(especially micromobility and urban railway) / SNS System planning / Urban System and its User Experience 👯</h5>
+  <h5>🤔 Looking for help with: Cloud management / Blockchain system construction / Website design 🤔</h5>
+  <h5>😄 My interests: #Love_pizza_and_pasta #He/his #Like_football_n_lol #Usually_wears_jean 😄</h5>
