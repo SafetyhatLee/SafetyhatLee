@@ -13,12 +13,14 @@
   <img src="https://img.shields.io/badge/kotlin-F9EAFF.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />&nbsp
   <img src="https://img.shields.io/badge/matlab-11557c.svg?style=for-the-badge&logo=matlab&logoColor=white" />&nbsp
 </div>
+
 <br>
-![main](https://github-readme-stats.vercel.app/api?username=safetyhatlee)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee)
+<a href="https://github-readme-stats.vercel.app/api?username=safetyhatlee"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee"></a>
 (https://github.com/anuraghazra/github-readme-stats)
 
 <h3, h5 align="center">
 <h3>📢 Other Information..! 📢</h3>
-<h5>👯 Wanna Collaborate in: Transportation(especially micromobility and urban railway) / Social Network Service planning / Urban System and its User Experience 👯</h5>
+<h5>👯 Wanna Collaborate in: Transportation(especially micromobility and urban railway) / SNS System planning / Urban System and its User Experience 👯</h5>
 <h5>🤔 Looking for help with: Cloud management / Blockchain system construction / Website design 🤔</h5>
 <h5>😄 My interests: #Love_pizza_and_pasta #He/his #Like_football_n_lol #Usually_wears_jean 😄</h5>
