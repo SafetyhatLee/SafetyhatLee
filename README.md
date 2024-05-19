@@ -3,12 +3,14 @@
 <head>
   <meta charset="UTF-8">
   
-  <title>Document</title>
 </head>
 <body>
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=🚅%20SafeCap's%20Git%20Laboratory%20🚀&fontSize=40&animation=twinkling&fontAlignY=50&fontAlign=50&desc=Welcome%20to%20the%20World%20of%20Safetyhat%20Lee&fontAlignY=150&height=180">
     <h2>Example of code</h2>
     <pre>
+      <div align=center>
+        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+      </div>
         <div class="container">
             <div class="block two first">
                 <h2>Safetyhat Lee</h2>
