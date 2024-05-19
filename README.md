@@ -15,8 +15,8 @@
 </div>
 
 <br>
-  <img href="https://github-readme-stats.vercel.app/api?username=safetyhatlee"></a>
-  <img href="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee"></a>
 (https://github.com/anuraghazra/github-readme-stats)
 
 <h3, h5 align="center">
