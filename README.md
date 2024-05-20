@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/matlab-11557c.svg?style=for-the-badge&logo=matlab&logoColor=white" />&nbsp
 </div>
 <br>
-<div style="margin-right:10px; auto">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee&show_icons=true&theme=react&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee&layout=compact" />
 </div>
