@@ -17,7 +17,7 @@
 <br>
 <div style="float:left; margin-right:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee&show_icons=true&theme=react&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee&layout=compact", style="object-fit:cover;" />
 </div>
 
 <h3, h5 align="center">
