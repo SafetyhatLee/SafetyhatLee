@@ -2,16 +2,20 @@
   <img src=https://capsule-render.vercel.app/api?type=rounded&color=0:A5BECF,50:668BC4,100:335495&text=🚅%20SafeCap's%20Git%20Laboratory%20🚀&fontSize=40&animation=twinkling&fontAlignY=45&fontAlign=50&height=180&desc=Welcome%20to%20the%20World%20of%20Safetyhat%20Lee&descAlignY=65 />
 </div>
 
-'''java
-String name = "Minhyuk Lee";
-int birth = 20020123;
-String[] major = {"Civil and Environmental Engineering", "Industrial Engineering"};
-boolean isCouple = false;
-public void playing() {
-  coding({java, python});
-  restIn("cafe"); drinking("Vanilla Latte", "Tiramisu");
+```java
+public class SafeCap {
+  public SafeCap {
+    String name = "Minhyuk Lee";
+    int birth = 20020123;
+    String[] major = {"Civil and Environmental Engineering", "Industrial Engineering"};
+    boolean isMale = true, isCouple = false;
+  }
+  public void playing() {
+    coding({java, python});
+    restIn("cafe"); drinking("Vanilla Latte", "Tiramisu");
+  }
 }
-'''
+```
 
 <h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
