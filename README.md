@@ -3,18 +3,15 @@
 </div>
 
 '''java
-class SafeCap {
-  public class SafeCap {
-    String name = "Minhyuk Lee";
-    int birth = 20020123;
-    String[] major = {"Civil and Environmental Engineering", "Industrial Engineering"};
-    
-    boolean isCouple = false;
-  }
-  public void playing() {
-    coding({java, python});
-    restIn("cafe"); drinking("Vanilla Latte", "Tiramisu");
-  }
+public class SafeCap {
+  String name = "Minhyuk Lee";
+  int birth = 20020123;
+  String[] major = {"Civil and Environmental Engineering", "Industrial Engineering"};
+  boolean isCouple = false;
+}
+public void playing() {
+  coding({java, python});
+  restIn("cafe"); drinking("Vanilla Latte", "Tiramisu");
 }
 '''
 
