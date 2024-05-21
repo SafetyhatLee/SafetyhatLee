@@ -17,7 +17,7 @@
 <h2 align="center">💌 How to contact me 💌</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/instagram-FFFBA8.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" />&nbsp
-  <img src="https://img.shields.io/badge/E-mail-white.svg?style=for-the-badge&logo=gmail&logoColor=EA4335" />&nbsp
+  <img src="https://img.shields.io/badge/Email-white.svg?style=for-the-badge&logo=gmail&logoColor=EA4335" />&nbsp
   <img src="https://img.shields.io/badge/tistory-white.svg?style=for-the-badge&logo=Tistory&logoColor=000000" />&nbsp
 </div>
 
