@@ -8,7 +8,8 @@ public class SafeCap {
   public SafeCap {
     String name = "Minhyuk Lee";
     int birth = 20020123;
-    String[] major = {"Civil and Environmental Engineering", "Industrial Engineering"};
+    String school = "Seoul National University"; int[] date = [202103, 202802];
+    Map<String, String> major = {"bachelor1": "Civil and Environmental Engineering", "bachelor2": "Industrial Engineering"};
     boolean isMale = true, isCouple = false;
   }
 
