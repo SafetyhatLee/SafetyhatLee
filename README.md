@@ -21,14 +21,29 @@
   <img src="https://img.shields.io/badge/tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
 </div>
 <br>
-<h2 align="center"> My programming stats 💌</h2>
+<h2 align="center">🎲 My programming stats 🎲</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee&show_icons=true&theme=react&count_private=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee&layout=compact" />
 </div>
-
-<h3, h5 align="center">
+<br>
+<h2 align="center">🎮 My programming tools 🎮</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Github-A2CFCD.svg?style=for-the-badge&logo=github&logoColor=181717" />&nbsp
+  <img src="https://img.shields.io/badge/Gitpod-2F4858.svg?style=for-the-badge&logo=gitpod&logoColor=FFAE33" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-DEF2FF.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />&nbsp
+  <img src="https://img.shields.io/badge/Eclipse_IDE-EC7B60.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />&nbsp
+</div>
+<br>
+<h2 align="center">🎮 My learning tools 🎮</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Coursera-A2CFCD.svg?style=for-the-badge&logo=github&logoColor=181717" />&nbsp
+  <img src="https://img.shields.io/badge/Google_Certificate-E7EFFF.svg?style=for-the-badge&logo=google&logoColor=4285F4" />&nbsp
+</div>
+<br>
+<div align="center">
   <h3>📢 Other Information..! 📢</h3>
   <h5>👯 Wanna Collaborate in: Transportation(especially micromobility and urban railway) / SNS System planning / Urban System and its User Experience 👯</h5>
   <h5>🤔 Looking for help with: Cloud management / Blockchain system construction / Website design 🤔</h5>
   <h5>😄 My interests: #Love_pizza_and_pasta #He/his #Like_football_n_lol #Usually_wears_jean 😄</h5>
+</div>
