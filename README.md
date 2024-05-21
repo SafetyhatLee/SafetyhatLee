@@ -16,9 +16,21 @@ public class SafeCap {
     coding({java, python});
     restIn("cafe"); drinking("Vanilla Latte", "Tiramisu");
   }
+  public void wearing() {
+    Random myMood = new Random();
+    String[] listUp = {"Men To Men", "Pique shirt", "Hoodie", "Sweatshirt"};
+    String upper = listUp.get(myMood.get(listUp.nextInt()));
+    String lower = "jean";
+  }
 }
 ```
 
+<br>
+<div align="center">
+  <h3>📢 Other Information..! 📢</h3>
+  <h5>👯 Wanna Collaborate in: Transportation(especially micromobility and urban railway) / SNS System planning / Urban System and its User Experience 👯</h5>
+  <h5>🤔 Looking for help with: Cloud management / Blockchain system construction / Website design 🤔</h5>
+</div>
 <br>
 <h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
@@ -57,11 +69,4 @@ public class SafeCap {
 <div align="center">
   <img src="https://img.shields.io/badge/Coursera-A2CFCD.svg?style=for-the-badge&logo=github&logoColor=181717" />&nbsp
   <img src="https://img.shields.io/badge/Google_Certificate-E7EFFF.svg?style=for-the-badge&logo=google&logoColor=4285F4" />&nbsp
-</div>
-<br>
-<div align="center">
-  <h3>📢 Other Information..! 📢</h3>
-  <h5>👯 Wanna Collaborate in: Transportation(especially micromobility and urban railway) / SNS System planning / Urban System and its User Experience 👯</h5>
-  <h5>🤔 Looking for help with: Cloud management / Blockchain system construction / Website design 🤔</h5>
-  <h5>😄 My interests: #Love_pizza_and_pasta #He/his #Like_football_n_lol #Usually_wears_jean 😄</h5>
 </div>
