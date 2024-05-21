@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">✨ Tech Stack ✨</h2>
-<hr>
+
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/java-D6905A.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
