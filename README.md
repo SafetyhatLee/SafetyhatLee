@@ -3,7 +3,6 @@
 </div>
 
 <h2 align="center">✨ Tech Stack ✨</h2>
-
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/java-D6905A.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -15,6 +14,13 @@
   <img src="https://img.shields.io/badge/matlab-11557c.svg?style=for-the-badge&logo=matlab&logoColor=white" />&nbsp
 </div>
 <br>
+<h2 align="center">💌 How to contact me 💌</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=FFFBA8" />&nbsp
+  <img src="https://img.shields.io/badge/email-white.svg?style=for-the-badge&logo=E-mail&logoColor=EA4335" />&nbsp
+  <img src="https://img.shields.io/badge/tistory-white.svg?style=for-the-badge&logo=Tistory&logoColor=000000" />&nbsp
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee&show_icons=true&theme=react&count_private=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee&layout=compact" />
