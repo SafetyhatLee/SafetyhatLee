@@ -2,7 +2,7 @@
   <img src=https://capsule-render.vercel.app/api?type=rounded&color=0:A5BECF,50:668BC4,100:335495&text=🚅%20SafeCap's%20Git%20Laboratory%20🚀&fontSize=40&animation=twinkling&fontAlignY=45&fontAlign=50&height=180&desc=Welcome%20to%20the%20World%20of%20Safetyhat%20Lee&descAlignY=65 />
 </div>
 
-## <center>✨ Tech Stack ✨</center>
+# <center>✨ Tech Stack ✨</center>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/java-D6905A.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
