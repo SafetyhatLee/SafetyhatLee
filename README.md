@@ -18,9 +18,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/instagram-FFFBA8.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" />&nbsp
   <img src="https://img.shields.io/badge/Email-white.svg?style=for-the-badge&logo=gmail&logoColor=EA4335" />&nbsp
-  <img src="https://img.shields.io/badge/tistory-white.svg?style=for-the-badge&logo=Tistory&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
 </div>
-
+<br>
+<h2 align="center"> My programming stats 💌</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee&show_icons=true&theme=react&count_private=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee&layout=compact" />
