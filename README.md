@@ -28,7 +28,7 @@ public class SafeCap {
 
 <br>
 <div align="center">
-  <h3>📢 Other Information..! 📢</h3>
+  <h3>📢 About Me 📢</h3>
   <h5>👯 Wanna Collaborate in: Transportation(especially micromobility and urban railway) / SNS System planning / Urban System and its User Experience 👯</h5>
   <h5>🤔 Looking for help with: Cloud management / Blockchain system construction / Website design 🤔</h5>
 </div>
