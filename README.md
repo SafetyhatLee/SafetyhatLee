@@ -52,12 +52,6 @@ public class SafeCap {
   <img src="https://img.shields.io/badge/tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
 </div>
 <br>
-<h2 align="center">🎲 My programming stats 🎲</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee&show_icons=true&theme=react&count_private=true" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee&layout=compact" />
-</div>
-<br>
 <h2 align="center">🎮 My programming tools 🎮</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Github-A2CFCD.svg?style=for-the-badge&logo=github&logoColor=181717" />&nbsp
@@ -70,4 +64,10 @@ public class SafeCap {
 <div align="center">
   <img src="https://img.shields.io/badge/Coursera-AAAABC.svg?style=for-the-badge&logo=coursera&logoColor=0056D2" />&nbsp
   <img src="https://img.shields.io/badge/Google_Certificate-E7EFFF.svg?style=for-the-badge&logo=google&logoColor=4285F4" />&nbsp
+</div>
+<br>
+<h2 align="center">🎲 My programming stats 🎲</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safetyhatlee&show_icons=true&theme=react&count_private=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safetyhatlee&layout=compact" />
 </div>
