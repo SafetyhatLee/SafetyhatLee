@@ -68,6 +68,6 @@ public class SafeCap {
 <br>
 <h2 align="center">🎮 My learning tools 🎮</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Coursera-A2CFCD.svg?style=for-the-badge&logo=github&logoColor=181717" />&nbsp
+  <img src="https://img.shields.io/badge/Coursera-AAAABC.svg?style=for-the-badge&logo=coursera&logoColor=0056D2" />&nbsp
   <img src="https://img.shields.io/badge/Google_Certificate-E7EFFF.svg?style=for-the-badge&logo=google&logoColor=4285F4" />&nbsp
 </div>
